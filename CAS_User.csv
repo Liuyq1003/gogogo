@@ -1,0 +1,34 @@
+﻿Admin_acc	Admin_app	Acc_name	Acc_email	Acc_enable	Acc_type	Acc_pki
+15243	Customer & Partner Mgt	Zhang Bin Li	binli.zhang@siemens.com	Enabled	Internal	true
+15243	WA Biz System	Zhang Bin Li	binli.zhang@siemens.com	Enabled	Internal	true
+18759	CAS	刘永庆	yongqing.liu@siemens.com	Enabled	Internal	false
+18759	VI Biz System	刘永庆	yongqing.liu@siemens.com	Enabled	Internal	false
+18759	Financing Support	刘永庆	yongqing.liu@siemens.com	Enabled	Internal	false
+26115	Project & Offer	Zhang Ming	zhang_ming@siemens.com	Enabled	Internal	true
+80013200	Project & Offer	Liu Xiu Juan	xiujuan.liu@siemens.com	Enabled	Internal	true
+80014197	Customer & Partner Mgt	Wang Luo	luo.wang@siemens.com	Enabled	Internal	true
+80016596	BP Biz System	高燕菲	yanfei.gao@siemens.com	Enabled	Internal	true
+80020340	Project & Offer	姚伟	wei.yao@siemens.com	Enabled	Internal	true
+80022062	WA KA	龚垭婷	yating.gong@siemens.com	Enabled	Internal	true
+80023021	Project & Offer	郑瑶	yao.zheng@siemens.com	Enabled	Internal	true
+83907662	Project & Offer	杨筱宇	yang.xy@siemens.com	Enabled	Internal	true
+87201779	SSLS Biz System	苏佳	jia.su@siemens.com	Enabled	Internal	true
+88200300	DS Biz System	Zhu Hai Lin	hailin.zhu@siemens.com	Enabled	Internal	true
+88200408	DS Biz System	Wang Su Rong	surong.wang@siemens.com	Enabled	Internal	true
+88202388	VI Biz System	Shao Qiu Yan	qiuyan.shao@siemens.com	Enabled	Internal	true
+88480300	Financing Support	Wu Ying	wu.ying@siemens.com	Enabled	Internal	true
+prolliance_003	CAS	刘丽	liu.li.ext@siemens.com	Enabled	Supplier	true
+prolliance_003	Process Center	刘丽	liu.li.ext@siemens.com	Enabled	Supplier	true
+prolliance_003	Customer & Partner Mgt	刘丽	liu.li.ext@siemens.com	Enabled	Supplier	true
+prolliance_003	WA Biz System	刘丽	liu.li.ext@siemens.com	Enabled	Supplier	true
+prolliance_003	Order & Logistic	刘丽	liu.li.ext@siemens.com	Enabled	Supplier	true
+prolliance_005	CAS	张梦琪	mengqi.zhang.ext@siemens.com	Enabled	Supplier	true
+prolliance_005	Project & Offer	张梦琪	mengqi.zhang.ext@siemens.com	Enabled	Supplier	true
+prolliance_005	Customer & Partner Mgt	张梦琪	mengqi.zhang.ext@siemens.com	Enabled	Supplier	true
+prolliance_005	Process Center	张梦琪	mengqi.zhang.ext@siemens.com	Enabled	Supplier	true
+prolliance_005	Order & Logistic	张梦琪	mengqi.zhang.ext@siemens.com	Enabled	Supplier	true
+80012872	CAS	Da Dong Xuan	dongxuan.da@siemens.com	Enabled	Internal	true
+80016551	CAS	Wu Si	wu.si@siemens.com	Enabled	Internal	false
+80018002	CAS	Zhang Xu	zhangxu@siemens.com	Enabled	Internal	true
+80018587	CAS	Deng Xuan	xuan.deng@siemens.com	Enabled	Internal	false
+z004j0ev	CAS	Zhang Yu fei	yufeizhang@siemens.com	Enabled	Internal	false
