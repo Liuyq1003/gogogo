@@ -84,17 +84,17 @@ if multipage == '综合查询':
 #    st.title('Search:')
     S_Ipt = st.text_input('综合查询','请输入： SO, PO, DN, Invoice, SPR, Material_No, etc.')
     if S_Ipt[:3] == '300':
-        st.image(Image.open('SO_Search.png'))
+        st.image(Image.open('SO_Search.PNG'))
     elif S_Ipt[:3] == '400':
-        st.image(Image.open('DN_Search.png'))
+        st.image(Image.open('DN_Search.PNG'))
     elif S_Ipt[:3] == '450':
-        st.image(Image.open('PO_Search.png'))
+        st.image(Image.open('PO_Search.PNG'))
     elif S_Ipt[:3] == '522':
-        st.image(Image.open('Invoice_Search.png'))
-    elif S_Ipt[:3] == 'SPR':
-        st.image(Image.open('Spr_Search.png'))
+        st.image(Image.open('Invoice_Search.PNG'))
+    elif S_Ipt[:3].lower() == 'SPR':
+        st.image(Image.open('SPR_Search.png'))
     elif S_Ipt[:3] == '3va' or S_Ipt[:3] == '3VA' :
-        st.image(Image.open('Material_Search.png'))
+        st.image(Image.open('Material_Search.PNG'))
     
 elif multipage == '业务概览':
 
@@ -114,7 +114,7 @@ elif multipage == '业务概览':
    
 # for '订单统计':
     st.caption('订单统计：')
-    df1 = pd.read_excel('zyd_odr.xlsx')
+    df1 = pd.read_excel('Zyd_Odr.xlsx')
 
     SO1, SO2 = st.columns(2)
     with SO1:
