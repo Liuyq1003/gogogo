@@ -115,7 +115,7 @@ elif multipage == '业务概览':
    
 # for '订单统计':
     st.caption('订单统计：')
-    df1 = pd.read_excel('ZYD_Odr.xlsx',engine = "openpyxl")
+    df1 = pd.read_excel('ZYD_Odr.xls', engine ='xlrd')
 
     SO1, SO2 = st.columns(2)
     with SO1:
