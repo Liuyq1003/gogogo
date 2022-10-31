@@ -7,7 +7,7 @@ Created on Sat Sep  3 10:01:42 2022
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import openpyxl
+
 
 
 
@@ -115,7 +115,7 @@ elif multipage == '业务概览':
    
 # for '订单统计':
     st.caption('订单统计：')
-    df1 = pd.read_excel('ZYD_Odr.xlsx')
+    df1 = pd.read_excel('ZYD_Odr.xlsx',engine = "openpyxl")
 
     SO1, SO2 = st.columns(2)
     with SO1:
