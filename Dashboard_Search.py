@@ -57,7 +57,7 @@ with open('style.css') as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html= True)
 
 
-image = Image.open('siemens.png')
+image = Image.open('Siemens.PNG')
 st.image(image)
 
 if multipage == '综合查询':
