@@ -7,7 +7,7 @@ Created on Sat Sep  3 10:01:42 2022
 import streamlit as st
 import pandas as pd
 from PIL import Image
-
+import xlrd
 
 
 
@@ -92,8 +92,8 @@ if multipage == '综合查询':
         st.image(Image.open('PO_Search.PNG'))
     elif S_Ipt[:3] == '522':
         st.image(Image.open('Invoice_Search.PNG'))
-    elif S_Ipt[:3].lower() == 'SPR':
-        st.image(Image.open('SPR_Search.png'))
+    elif S_Ipt[:3].lower() == 'spr':
+        st.image(Image.open('SPR_Search.PNG'))
     elif S_Ipt[:3] == '3va' or S_Ipt[:3] == '3VA' :
         st.image(Image.open('Material_Search.PNG'))
     
